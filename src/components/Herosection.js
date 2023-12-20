@@ -21,12 +21,12 @@ const Herosection = () => {
     <Container fluid style={style}>
       <Row className="d-flex align-items-center">
         <Col md={12} className="text-center">
-          <p style={{ fontFamily: 'Inter', color: 'white', fontSize: '5vw' }}>
+          <p style={{ fontFamily: 'Inter', color: 'white', fontSize: '5vw' ,fontWeight: 'bold' }}>
             Web3Makr Redefining
           </p>
         </Col>
         <Col md={12} className="text-center">
-          <p style={{ fontFamily: 'Inter', color: 'white', fontSize: '5vw' }}>
+          <p style={{ fontFamily: 'Inter', color: 'white', fontSize: '5vw',fontWeight: 'bold'  }}>
             How You Create
           </p>
         </Col>
